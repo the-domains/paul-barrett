@@ -1,0 +1,28 @@
+name: Paul Barrett
+favicon: null
+layout_spectrum: 0.7678822875022888
+typography_spectrum: 0.9164517414756119
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6762190433219075
+  lightness: 0.291307927807793
+  saturation: 0.42496864148415625
+  rhythmicContrast: 0.059827636228874326
+purpose: []
